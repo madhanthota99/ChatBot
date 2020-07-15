@@ -12,4 +12,4 @@ if [ ! -f /usr/bin/dotnet ]; then
 fi
 
 # first time running dotnet tool requires setting up package cache
-dotnet nuget
+# dotnet nuget
